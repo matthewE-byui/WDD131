@@ -1,0 +1,44 @@
+/* General Styles */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Container to limit width */
+  main {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+  }
+  
+  /* Header */
+  header {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  h2 {
+    color: #006EB6;
+    letter-spacing: 1px;
+    font-weight: normal;
+  }
+  
+  /* Footer */
+  footer {
+    margin-top: 40px;
+  }
+  
+  footer img {
+    width: 150px;
+  }
+  
