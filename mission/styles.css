@@ -42,3 +42,13 @@ body {
     width: 150px;
   }
   
+
+  body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  body.dark-mode h2 {
+    color: #90caf9;
+  }
+  
